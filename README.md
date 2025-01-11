@@ -43,4 +43,12 @@ This project was part of my JavaScript coursework, aimed at strengthening my und
 - Implementing event listeners to handle user interactions.  
 - Building reusable functions for modularity and cleaner code.  
 - Using arrays and loops to define and check winning patterns.  
-- Managing game state dynamically through DOM manipulation.  
+- Managing game state dynamically through DOM manipulation.
+
+
+**Github**: https://github.com/puneethVnaik/
+
+**Linkedin**: https://www.linkedin.com/in/puneeth-v-naik/
+
+**Try it out**: https://puneethvnaik.github.io/Tic-Tac-Toe/
+
