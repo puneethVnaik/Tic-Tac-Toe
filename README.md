@@ -45,6 +45,7 @@ This project was part of my JavaScript coursework, aimed at strengthening my und
 - Using arrays and loops to define and check winning patterns.  
 - Managing game state dynamically through DOM manipulation.
 
+## 🔗 Connect with Me Feel free to connect or share your feedback! 😊
 
 **Github**: https://github.com/puneethVnaik/
 
